@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  degree: MyString
+  subject: MyString
+  school_name: MyString
+  graduation_date: 2013-01-13
+  start_date: 2013-01-13
+  program_title: MyString
+
+two:
+  degree: MyString
+  subject: MyString
+  school_name: MyString
+  graduation_date: 2013-01-13
+  start_date: 2013-01-13
+  program_title: MyString
