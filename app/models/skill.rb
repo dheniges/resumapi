@@ -22,6 +22,8 @@ class Skill < ActiveRecord::Base
   # the display layer but when building up JSON/XML
   # strings I usually prefer skipping the view layer and
   # rendering json straight from the controller
+  # 
+  # This method is not currently used
   def to_s
     (name.blank?) ? description : "#{name}: #{description}"
   end

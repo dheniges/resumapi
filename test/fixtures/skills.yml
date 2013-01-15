@@ -2,12 +2,9 @@
 
 one:
   name: MyString
-  score: 1
-  years_experience: 1
   description: MyText
+  applicant_id: 1
 
 two:
-  name: MyString
-  score: 1
-  years_experience: 1
   description: MyText
+  applicant_id: 1
